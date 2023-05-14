@@ -32,6 +32,8 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay-blaze
 
 PRODUCT_PACKAGES += \
+    AospSystemUIResTarget \
+    OPlusExtrasResTarget \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSystemUIResTarget
