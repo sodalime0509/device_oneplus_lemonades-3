@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/blaze_lemonades.mk
+    $(LOCAL_DIR)/aosp_lemonades.mk
 
 COMMON_LUNCH_CHOICES := \
-    blaze_lemonades-user \
-    blaze_lemonades-userdebug \
-    blaze_lemonades-eng
+    aosp_lemonades-user \
+    aosp_lemonades-userdebug \
+    aosp_lemonades-eng
